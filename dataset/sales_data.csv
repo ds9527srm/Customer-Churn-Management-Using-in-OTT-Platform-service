@@ -1,0 +1,11 @@
+transaction_id,product,category,sales_amount,sales_date
+1,Apple iPhone 14,Electronics,999.99,2026-01-29
+2,Samsung Galaxy S23,Electronics,899.50,2026-01-29
+3,Sony Headphones,Electronics,150.75,2026-01-28
+4,HP Laptop,Electronics,1200.00,2026-01-27
+5,Nike Shoes,Fashion,120.00,2026-01-29
+6,Adidas T-Shirt,Fashion,35.50,2026-01-28
+7,Levi's Jeans,Fashion,60.00,2026-01-29
+8,KitchenAid Mixer,Home Appliances,350.00,2026-01-27
+9,Dyson Vacuum,Home Appliances,499.99,2026-01-28
+10,Coffee Maker,Home Appliances,80.00,2026-01-29
